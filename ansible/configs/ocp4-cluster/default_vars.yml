@@ -114,7 +114,7 @@ common_packages:
 
 # Number of Nodes
 master_instance_count: 3
-worker_instance_count: 2
+worker_instance_count: 3
 
 # This will run in the post_software phase and run playbooks in the
 # software_playbooks directory
